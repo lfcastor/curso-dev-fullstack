@@ -1,0 +1,19 @@
+body {
+    background-color: #e9e5e5;
+}
+
+p {
+    color: #222222;
+}
+
+.foto-principal {
+    width: 200px;
+    border: 2px solid #ffffff; /*está propriedade é chamada de shorthand*/
+    border-radius: 50%;
+    /*
+    border-width: 5px;
+    border-style: solid;
+    border-color: aqua;
+    */
+
+}

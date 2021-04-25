@@ -1,0 +1,27 @@
+ body {
+    background-color: #e9e5e5;
+    font-family: Arial, Helvetica, 'Courier New', Courier, monospace ,sans-serif;
+    color: rgb(34, 34, 34);
+}
+
+.foto-principal {
+    width: 200px;
+    border: 2px solid #ffffff; /*está propriedade é chamada de shorthand*/
+    border-radius: 50%;
+    margin: 30px;
+    box-shadow: 0px 0px 10px #959595;
+
+}
+
+h1 {
+    margin-bottom: 0;
+    letter-spacing: -1px; /*Espaçamento entre as letras*/
+}
+
+h2 {
+    margin-top: 0; 
+    font-style: italic; /*Deixar a fonte em negrito*/
+    color: #535353;
+    font-weight: 100; /*Tirar o negrito da fonte*/
+    letter-spacing: -1px; /*Espaçamento entre as letras*/
+}
